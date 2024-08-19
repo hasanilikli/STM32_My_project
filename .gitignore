@@ -1,0 +1,11 @@
+Debug/
+Release/
+build/
+*.bin
+*.elf
+*.hex
+.cproject
+.project
+.settings/
+*.launch
+SW4STM32/
